@@ -11,10 +11,10 @@ const ExplorerConfig = {
   emissionCurveDataPoints: 15000,
   addressPrefix: 10115542401,
   forkHeights: [
-      187000, // 0
-      350000, // 1
-      400000, // 2
-      950000, // 3
-     1000000 //
+      187000, 
+      350000,
+      400000,
+      950000,
+     1000000
   ]
 }
