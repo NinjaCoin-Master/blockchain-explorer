@@ -1,5 +1,5 @@
 const ExplorerConfig = {
-  apiBaseUrl: 'https://api.ninjanode.net',
+  apiBaseUrl: 'https://api-ninjapay.ninjanode.net',
   ticker: 'NINJA',
   maxSupply: 100000000000000,
   emissionSpeed: 25,
