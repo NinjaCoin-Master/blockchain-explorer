@@ -31,7 +31,7 @@ $(document).ready(function () {
     generateRandomPaymentID()
   })
 
-  window.cnUtils = new TurtleCoinUtils.CryptoNote({
+  window.cnUtils = new NinjaCoinUtils.CryptoNote({
     coinUnitPlaces: ExplorerConfig.decimalPoints,
     addressPrefix: ExplorerConfig.addressPrefix
   })
