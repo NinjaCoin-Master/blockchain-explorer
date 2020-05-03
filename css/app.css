@@ -3,6 +3,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
   min-width: 1120px;
+  background-color: lightgrey;
 }
 
 main {
@@ -23,11 +24,11 @@ container {
 
 .column-header {
   display: block;
-  background-color: #00853d;
+  background-color: #ffa500;
 }
 
 .has-trtl-green {
-  color: #00853d !important;
+  color: #ffa500 !important;
 }
 
 .has-trtl-red {
@@ -40,7 +41,7 @@ container {
 }
 
 .is-trtl-green {
-  background-color: #00853d !important;
+  background-color: #ffa500 !important;
   color: #fff !important;
 }
 
@@ -142,14 +143,14 @@ container {
 }
 
 a {
-  color: #00853d;
+  color: #ff8c00;
 }
 
 .navbar-link.is-active,
 .navbar-link:hover,
 a.navbar-item.is-active,
 a.navbar-item:hover {
-  color: #00853d !important;
+  color: #ffa500 !important;
 }
 
 .trtl-amount,
